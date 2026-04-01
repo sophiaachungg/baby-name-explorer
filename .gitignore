@@ -1,0 +1,12 @@
+node_modules/
+frontend/build/
+__pycache__/
+*.pyc
+.env.local
+.DS_Store
+
+# The generated data directory is large — you may want to gitignore
+# the names/ subfolder and regenerate it locally, or commit it if
+# your repo is under GitHub's size limits.
+# Uncomment the next line to exclude name data from git:
+# frontend/public/data/names/
